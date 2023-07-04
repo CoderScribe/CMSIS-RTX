@@ -149,7 +149,7 @@
   </conditions>
 
   <components>
-      <component Cclass="CMSIS" Cgroup="RTOS2" Csub="Keil RTX5" Cvariant="Source" Cversion="5.7.0" Capiversion="2.2.0" condition="RTX">
+      <component Cclass="CMSIS" Cgroup="RTOS2" Csub="Keil RTX5" Cvariant="Source" Cversion="5.7.0" Capiversion="2.1.3" condition="RTX">
       <description>CMSIS-RTOS2 RTX5 for Cortex-M, SC000, SC300, ARMv8-M, ARMv8.1-M (Source)</description>
       <RTE_Components_h>
         <!-- the following content goes into file 'RTE_Components.h' -->
