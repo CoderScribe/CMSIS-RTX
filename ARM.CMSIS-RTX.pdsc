@@ -86,7 +86,6 @@
       <require condition="Compiler"/>
       <require Cclass="CMSIS"  Cgroup="CORE"/>
       <require Cclass="Device" Cgroup="Startup"/>
-      <require Cclass="Device" Cgroup="OS Tick"/>
     </condition>
 
     <!-- Assembly modes -->
